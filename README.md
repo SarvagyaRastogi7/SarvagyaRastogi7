@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Sarvagya, an Indian AI Engineer :
 Currently pursuing an MSc in Artificial Intelligence at Queen Mary University of London, specializing in Machine Learning and Deep Learning. I am passionate about building impactful AI solutions and have hands-on experience across computer vision, natural language processing, and applied data science.
