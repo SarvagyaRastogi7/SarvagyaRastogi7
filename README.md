@@ -15,7 +15,14 @@ As of now, I am working on my Final project on Multimodal Emotion Recognition fr
 ![](https://nirzak-streak-stats.vercel.app/?user=SarvagyaRastogi7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarvagyaRastogi7&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarvagyaRastogi7/SarvagyaRastogi7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarvagyaRastogi7/SarvagyaRastogi7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SarvagyaRastogi7/SarvagyaRastogi7/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarvagyaRastogi7/SarvagyaRastogi7/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarvagyaRastogi7/SarvagyaRastogi7/output/github-snake.svg" />
