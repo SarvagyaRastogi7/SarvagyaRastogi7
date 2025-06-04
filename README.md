@@ -3,7 +3,8 @@
 # Hello World! I'm Sarvagya, an Indian AI Engineer :
 Currently pursuing an MSc in Artificial Intelligence at Queen Mary, University of London, specializing in Artificial Intelligent Agents, NLP, Machine Learning and Deep Learning. I am passionate about building impactful AI solutions and have hands-on experience across computer vision, natural language processing, and applied data science.
 As of now, I am working on my Final project on Multimodal Emotion Recognition from text, audio & video inputs for MSc in Artificial Intelligence<br>
-
+## 📄 Resume
+[View My Resume](./Sarvagya_Rastogi_CV.pdf)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bettercallshibu?igsh=YncyamU4c3V2ZTNs) 
